@@ -8,9 +8,9 @@ https://github.com/CirculaHealth-Hackathon/Circula-MobileApp
 https://github.com/CirculaHealth-Hackathon/Circula-CloudFunction
 
 Circula Web App:
-https://drive.google.com/file/d/1lRP4IJ9VB0gurXa-XOXIa6CaVb-3UxqN/view?usp=sharing
+https://github.com/CirculaHealth-Hackathon/DashboardV1-
 
 Circula Admin Web App:
-https://drive.google.com/file/d/15YVHEiNwNvOEf-qCLbdLSR8lZ4wH24sc/view?usp=sharing
+https://github.com/CirculaHealth-Hackathon/admin-auth
 
 To understand the full context of these applications, read the full explanation on Circula here: https://circulahealths-organization.gitbook.io/circulahealths-litepaper
